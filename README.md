@@ -1,24 +1,21 @@
 1. Career Counselling
 <img width="1826" height="908" alt="career counceling" src="https://github.com/user-attachments/assets/6d858f14-6391-4491-91dd-79235791151f" />
-
 I had to really think about whether the job I want is actually the right fit for me. I went through the chapter carefully and used the exercises to help me figure that out. After doing them, I honestly feel like the career path I’ve chosen suits me well.
 
 2. Skills and Interests
 <img width="1825" height="911" alt="skills   interest" src="https://github.com/user-attachments/assets/3d29d9f0-7df3-4628-9fe8-2cac44efb5d6" />
-
 I needed to check if my skills and interests matched the career I want. I read through the chapter to learn more about my strengths and did all the exercises. I realized my interests are in the right place, but I still need to work on improving some of my skills.
 
 3. Personality Assessment
-4. <img width="1827" height="908" alt="personality assesment" src="https://github.com/user-attachments/assets/9fa94186-1591-4b32-bfd0-b05ab7baa34a" />
+ <img width="1827" height="908" alt="personality assesment" src="https://github.com/user-attachments/assets/9fa94186-1591-4b32-bfd0-b05ab7baa34a" />
 I wanted to make sure I was getting advice from people who actually give good guidance, like my friends and family. So, I asked them a few questions and also completed the exercises in this chapter. I even spoke to some retired people to hear their thoughts. In the end, I realized their advice was really helpful and gave me a lot to think about.
 
 4. Create a CV
-
-At first, I didn’t really understand what a proper CV should look like. So, I decided to read this chapter to figure it out. After reading and doing the exercises, I finally got a clear idea of what information belongs in a good CV.
 <img width="1825" height="906" alt="create a cv" src="https://github.com/user-attachments/assets/2f4dfba2-066f-4df6-abd3-625b565f3190" />
+At first, I didn’t really understand what a proper CV should look like. So, I decided to read this chapter to figure it out. After reading and doing the exercises, I finally got a clear idea of what information belongs in a good CV.
 
 5. CV Submission
-   <img width="1918" height="908" alt="cv sub" src="https://github.com/user-attachments/assets/e8142ed1-fce7-4b42-bdb5-8a4cc002c19a" />
+<img width="1918" height="908" alt="cv sub" src="https://github.com/user-attachments/assets/e8142ed1-fce7-4b42-bdb5-8a4cc002c19a" />
 I wasn’t sure what the best layout for my CV should be, so I decided to do a bit of research. I checked Google and looked at some templates on Microsoft Word. Eventually, I found a layout and design that I think fits me best.
 
 6. Business Communication
@@ -71,5 +68,3 @@ I wasn’t sure what the best layout for my CV should be, so I decided to do a b
 
 *R – I observed noticeable improvements in collaboration and communication within my group, which led to more productive teamwork and smoother project outcomes.
 
-
-# WIL-Digital-Portfolio1
