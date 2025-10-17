@@ -12,6 +12,8 @@
 
 ### 7. Interview Skills
 <img width="1827" height="908" alt="INTERVIEW SKILLS" src="https://github.com/user-attachments/assets/273da545-1076-4945-9ac8-1bfa23a44393" />
+<img width="1827" height="908" alt="INTERVIEW SKILLS" src="https://github.com/user-attachments/assets/95a93846-cad8-4fbd-9e63-9eb514adfd4a" />
+
 <p>* S - I completed the Interview Skills which elaborates on how you should answer questions in an interview, and how to maintain confidence before and during an interview.</p>
 <p>* T - My goal was to practice and complete a test-run of an interview to evaluate my progress and confidence level.</p>
 <p>* A - I created sample interview questions that I thought an interviewer would ask, and also practiced in front of a mirror so that I can observe my body language, facial expressions and hand movements.</p>
@@ -19,6 +21,8 @@
 
 ### 8. Mock Interview
 <img width="1918" height="906" alt="MOCK INTERVIEW" src="https://github.com/user-attachments/assets/eb60de90-b2e7-4360-b83e-b9009c5e40e2" />
+<img width="1918" height="906" alt="MOCK INTERVIEW" src="https://github.com/user-attachments/assets/a6025c42-f59e-4c0f-9802-9d7b43d5dd9e" />
+
 <p>* S - I had to complete a mock interview which is a follow-up from the Interview Skills exercise, which was to see if we learned from our previous exercise.</p>
 <p>* T - My goal was to create a a professional mock interview video where I can express the skills that I have learned. At the same time, to create a neat background for the video.</p>
 <p>* A - So from the questions that we were given, I answered each of them carefully, making sure that I don't make any mistakes, also to use a program to show which questions I am answering.</p>
@@ -26,6 +30,8 @@
 
 ### 9. Professional Networking
 <img width="1801" height="907" alt="PROFESIONAL NETWORKING" src="https://github.com/user-attachments/assets/05ace477-5a4e-47fb-b839-74d7ce8c4bf2" />
+<img width="1801" height="907" alt="PROFESIONAL NETWORKING" src="https://github.com/user-attachments/assets/72a838b0-882f-4333-bf1b-ebc935c174fb" />
+
 <p>* S ![Uploading PROFESIONAL NETWORKING.png…]()
 - After completing Profressional Netowrking exercise, which focused on building connections, I wanted to use that knowledge that I learned and test it.</p>
 <p>* T - My goal was to practice networking skills, by reaching out to a few classmates and professionals on LinkedIn.</p>
@@ -34,6 +40,8 @@
 
 ### 10. Workplace Etiquette
 <img width="1805" height="912" alt="Workplace Etiquette" src="https://github.com/user-attachments/assets/9218764f-ac12-4f02-b159-7ff6cd4c5eec" />
+<img width="1805" height="912" alt="Workplace Etiquette" src="https://github.com/user-attachments/assets/83d3d715-11b2-4aee-85c7-43ff470bc5e4" />
+
 * S - I completed the Workplace Etiquette exercise, which mainly focuses on professional behavior, communication and ethics in a workplace.</p>
 * T - I wanted to apply what I had learned, by focusing on being respectful, cooperative and professional during group work at university.</p>
 * A - Before starting my day, I reviewed the main principles of Workplace Etiquette from my notes, and during group project discussions, I applied those principles to see the response.</p>
