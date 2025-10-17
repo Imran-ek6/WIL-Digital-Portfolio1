@@ -5,43 +5,47 @@
 ### 1. Career Counselling
 <img width="1826" height="908" alt="career counceling" src="https://github.com/user-attachments/assets/2d9e3878-299b-4dec-9804-682892c5a66d" />
 
-<p>S - I had to ask myself if ![Uploading career counceling.png…]()
-the job that I wanted was right for me. </p>
-<p>T - I had to read and understand this chapter, at the same time understand if my dream job was right for me.</p> 
-<p>A - Luckily this chapter had exercises that could help me so I did those exercises. </p>
-R -I feel that this path that I have chosen is right for me.
+<p>* S - I completed the Career Counselling activity, which focused on evaluating whether my chosen career path truly suited my interests and goals.</p>
+<p>* T - I needed to carefully read and reflect on the chapter to determine if the job I envisioned aligned with my long-term aspirations.</p>
+<p>* A - I completed the guided exercises provided in the chapter to help clarify my direction and evaluate my decision.</p>
+<p>* R - Through this, I confirmed that the path I have chosen is the right one for me and aligns well with my ambitions.</p>
+
 
 ### 2. Skills and Interests
 <img width="1825" height="911" alt="skills   interest" src="https://github.com/user-attachments/assets/3b2b5451-039f-4660-be41-a2ceb35c9368" />
 
-<p>S - I had to make sure that my skills and interests was in line with my career choice. </p>
-<p>T - I planned on reading this chapter to discover my skills.</p>
-<p>A - I finished the exercises this chapter had to offer. </p>
-R - And I feel that my interests were there but my skills must be improved.
+<p>* S - I explored my personal skills and interests to see how well they aligned with my career goals.</p>
+<p>* T - My goal was to identify both my strengths and areas that need improvement through the chapter’s exercises.</p>
+<p>* A - I completed all the exercises and reflected on the results to gain a clearer understanding of my capabilities.</p>
+<p>* R - I discovered that while my interests match my chosen field, my skills still need further development to reach my full potential.</p>
+
 
 ### 3. Personality Assessment
 <img width="1827" height="908" alt="personality assesment" src="https://github.com/user-attachments/assets/3766daca-1804-4185-a8d8-9279a68f243b" />
 
-<p>S - I had to make sure that the friends and family that I have are wise enough to give me advice.</p>
-<p>T - I tasked myself to ask them questions and also to complete the questions in this chapter. </p>
-<p>A - I ask them questions about what tools would they have used, and for those that are retired, I asked them for advice. </p>
-R - In the end, I have realized that they are very useful when comes to giving advice.
+<p>* S - This activity focused on understanding how my personality influences my decisions and relationships.</p>
+<p>* T - I tasked myself with asking friends and family for feedback while completing the personality assessment exercises.</p>
+<p>* A - I gathered insights and advice from both working professionals and retirees to understand their perspectives and approaches.</p>
+<p>* R - I realized that the advice from experienced individuals is extremely valuable in shaping how I make personal and career-related decisions.</p>
+
 
 ### 4. Create a CV
 <img width="1825" height="906" alt="create a cv" src="https://github.com/user-attachments/assets/e0ba41f9-47f6-44b4-ad68-8a8594c2a60a" />
 
-<p>S - My understanding of a CV was heavily misunderstood. </p>
-<p>T - I tasked myself by reading this chapter to understand what goes into a CV. </p>
-<p>A - I read the entire chapter and completed the exercises. </p>
-R - I feel like I have grasped an understanding on what goes into a CV.
+<p>* S - Initially, I had limited understanding of what makes a CV professional and effective.</p>
+<p>* T - My objective was to learn the key components and structure of a well-written CV.</p>
+<p>* A - I thoroughly read the chapter and completed the practical exercises to gain clarity on what information to include.</p>
+<p>* R - I now have a solid understanding of how to create a professional CV that presents my qualifications clearly and effectively.</p>
+
 
 ### 5. CV Submission
 <img width="1918" height="908" alt="cv sub" src="https://github.com/user-attachments/assets/b038749b-81b4-47e2-8976-021e333832c3" />
 
-<p>S - I was confused on what would the best layout would be to make my CV.</p>
-<p>T - So I tasked myself on what the best layout would be. </p>
-<p>A - I searched on Google Chrome and I checked on Microsoft Word. </p>
-R - I found what I would assume would be the best layout and design for a CV that fits me
+<p>* S - I was unsure about the best layout and design for presenting my CV.</p>
+<p>* T - I aimed to find a professional format that best represents my style and experience.</p>
+<p>* A - I researched templates online and explored various layout options on Microsoft Word.</p>
+<p>* R - I found a layout that aligns with my preferences and gives my CV a clean, professional appearance.</p>
+
 
 
 ### 6. Business Communication
