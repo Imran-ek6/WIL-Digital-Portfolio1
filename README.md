@@ -1,70 +1,38 @@
-1. Career Counselling
-<img width="1826" height="908" alt="career counceling" src="https://github.com/user-attachments/assets/6d858f14-6391-4491-91dd-79235791151f" />
-I had to really think about whether the job I want is actually the right fit for me. I went through the chapter carefully and used the exercises to help me figure that out. After doing them, I honestly feel like the career path I’ve chosen suits me well.
 
-2. Skills and Interests
-<img width="1825" height="911" alt="skills   interest" src="https://github.com/user-attachments/assets/3d29d9f0-7df3-4628-9fe8-2cac44efb5d6" />
-I needed to check if my skills and interests matched the career I want. I read through the chapter to learn more about my strengths and did all the exercises. I realized my interests are in the right place, but I still need to work on improving some of my skills.
+# WIL-Digital-Portfolio
+## Imran Abrahams
+### 6. Business Communication
+<img width="1828" height="916" alt="Business Communication" src="https://github.com/user-attachments/assets/27928b2d-837f-4932-b4a4-124289465b76" />
+<p>* S - I completed the Business Communication exercise, ehich tested our understanding of the main points, like professional writing and workplace communication.</p>
+<p>* T - I tasked myself by creating a formal business email, to test if I truly understood the structure and tone which is required.</p>
+<p>* A - I reviewed several examples of formal business email examples to ensure that my email follows the same flow.</p>
+* R - It made me understand that how the way you phrase certain words in an email really shifts the tone and how it's received.
 
-3. Personality Assessment
- <img width="1827" height="908" alt="personality assesment" src="https://github.com/user-attachments/assets/9fa94186-1591-4b32-bfd0-b05ab7baa34a" />
-I wanted to make sure I was getting advice from people who actually give good guidance, like my friends and family. So, I asked them a few questions and also completed the exercises in this chapter. I even spoke to some retired people to hear their thoughts. In the end, I realized their advice was really helpful and gave me a lot to think about.
+### 7. Interview Skills
+<img width="1827" height="908" alt="INTERVIEW SKILLS" src="https://github.com/user-attachments/assets/273da545-1076-4945-9ac8-1bfa23a44393" />
+<p>* S - I completed the Interview Skills which elaborates on how you should answer questions in an interview, and how to maintain confidence before and during an interview.</p>
+<p>* T - My goal was to practice and complete a test-run of an interview to evaluate my progress and confidence level.</p>
+<p>* A - I created sample interview questions that I thought an interviewer would ask, and also practiced in front of a mirror so that I can observe my body language, facial expressions and hand movements.</p>
+* R - It helped by pointing out some of the bad habits that might hinder my progress in real interviews, allowing me to focus on improving them.
 
-4. Create a CV
-<img width="1825" height="906" alt="create a cv" src="https://github.com/user-attachments/assets/2f4dfba2-066f-4df6-abd3-625b565f3190" />
-At first, I didn’t really understand what a proper CV should look like. So, I decided to read this chapter to figure it out. After reading and doing the exercises, I finally got a clear idea of what information belongs in a good CV.
+### 8. Mock Interview
+<img width="1918" height="906" alt="MOCK INTERVIEW" src="https://github.com/user-attachments/assets/eb60de90-b2e7-4360-b83e-b9009c5e40e2" />
+<p>* S - I had to complete a mock interview which is a follow-up from the Interview Skills exercise, which was to see if we learned from our previous exercise.</p>
+<p>* T - My goal was to create a a professional mock interview video where I can express the skills that I have learned. At the same time, to create a neat background for the video.</p>
+<p>* A - So from the questions that we were given, I answered each of them carefully, making sure that I don't make any mistakes, also to use a program to show which questions I am answering.</p>
+* R - I feel that I have done a good job, but at the same time, I do feel that I might have made a few errors, so I'll just have to improve.
 
-5. CV Submission
-<img width="1918" height="908" alt="cv sub" src="https://github.com/user-attachments/assets/e8142ed1-fce7-4b42-bdb5-8a4cc002c19a" />
-I wasn’t sure what the best layout for my CV should be, so I decided to do a bit of research. I checked Google and looked at some templates on Microsoft Word. Eventually, I found a layout and design that I think fits me best.
+### 9. Professional Networking
+<img width="1801" height="907" alt="PROFESIONAL NETWORKING" src="https://github.com/user-attachments/assets/05ace477-5a4e-47fb-b839-74d7ce8c4bf2" />
+<p>* S ![Uploading PROFESIONAL NETWORKING.png…]()
+- After completing Profressional Netowrking exercise, which focused on building connections, I wanted to use that knowledge that I learned and test it.</p>
+<p>* T - My goal was to practice networking skills, by reaching out to a few classmates and professionals on LinkedIn.</p>
+<p>* A - I connected with individuals in fields in fields I'm interested in, introduced myself professionally, and engaged in short conversations.</p>
+* R - I feel like I have gained the confidence in approaching and communicatiing with professionals, and I learned how to maintain meaningful connections online..
 
-6. Business Communication
-<img width="1828" height="916" alt="Business Communication" src="https://github.com/user-attachments/assets/898186ad-d32a-48fb-b1a6-d80dbf06b392" />
-*S – I completed the Business Communication task, which assessed our understanding of key concepts such as professional writing and effective communication.
-
-*T – I challenged myself to write a formal business email to see if I truly grasped the principles we learned.
-
-*A – To ensure quality, I analyzed a few professional email examples and modeled my own email after their structure and tone.
-
-*R – This activity helped me realize how the way you phrase your words in an email can greatly influence the overall tone and professionalism.
-
-7. Interview Skills
- <img width="1827" height="908" alt="INTERVIEW SKILLS" src="https://github.com/user-attachments/assets/611c8de2-dda7-4691-834e-5be72c3126d8" />
-*S – I worked on the Interview Skills activity, which explained how to answer interview questions effectively and remain confident throughout the process.
-
-*T – My objective was to practice through a mock interview session to assess my progress and readiness.
-
-*A – I prepared potential interview questions and practiced in front of a mirror, paying attention to my facial expressions, gestures, and body language.
-
-*R – This exercise made me aware of certain habits that could negatively affect my interview performance and gave me insight into how to improve.
-
-8. Mock Interview
- <img width="1918" height="906" alt="MOCK INTERVIEW" src="https://github.com/user-attachments/assets/13a58679-8bbf-4dc6-8d8e-ca9ee6aa2a5e" />
-*S – I participated in a mock interview, which served as a continuation of the Interview Skills task to demonstrate what I had learned.
-
-*T – My aim was to record a professional mock interview video that showcased my improved skills and presented a neat, organized setup.
-
-*A – I carefully answered each given question, using a program to display the question being answered and ensuring I spoke clearly and confidently.
-
-*R – I believe I performed well overall, though I noticed a few small mistakes that I can focus on improving in the future.
-
-9. Professional Networking
- <img width="1801" height="907" alt="PROFESIONAL NETWORKING" src="https://github.com/user-attachments/assets/2adc96c5-43cc-4913-ad9a-c7f3407cfcd3" />
-*S – After completing the Professional Networking exercise, which highlighted the importance of building meaningful professional relationships, I decided to apply that knowledge in practice.
-
-*T – My goal was to enhance my networking ability by connecting with classmates and professionals through LinkedIn.
-
-*A – I reached out to peers and professionals working in fields that align with my career interests.
-
-*R – This experience boosted my confidence in initiating conversations and forming professional connections online.
-
-10. Workplace Etiquette
- <img width="1805" height="912" alt="Workplace Etiquette" src="https://github.com/user-attachments/assets/25409ec0-988f-4daf-9974-b688e6a990fe" />
-*S – I completed the Workplace Etiquette exercise, which focused on maintaining professionalism, effective communication, and ethical conduct in a work setting.
-
-*T – I decided to put these principles into practice at university by being respectful, collaborative, and professional during daily interactions.
-
-*A – Each morning, I reviewed key etiquette principles from my notes, then applied them during group discussions and teamwork situations.
-
-*R – I observed noticeable improvements in collaboration and communication within my group, which led to more productive teamwork and smoother project outcomes.
-
+### 10. Workplace Etiquette
+<img width="1805" height="912" alt="Workplace Etiquette" src="https://github.com/user-attachments/assets/9218764f-ac12-4f02-b159-7ff6cd4c5eec" />
+* S - I completed the Workplace Etiquette exercise, which mainly focuses on professional behavior, communication and ethics in a workplace.</p>
+* T - I wanted to apply what I had learned, by focusing on being respectful, cooperative and professional during group work at university.</p>
+* A - Before starting my day, I reviewed the main principles of Workplace Etiquette from my notes, and during group project discussions, I applied those principles to see the response.</p>
+* R - I noticed a clear improvement in how smoothly some of my group projects were, the teamwork that I had with my group is much stronger too.
