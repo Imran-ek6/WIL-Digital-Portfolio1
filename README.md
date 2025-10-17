@@ -3,6 +3,8 @@
 ## Imran Abrahams
 ### 6. Business Communication
 <img width="1828" height="916" alt="Business Communication" src="https://github.com/user-attachments/assets/27928b2d-837f-4932-b4a4-124289465b76" />
+<img width="1828" height="916" alt="Business Communication" src="https://github.com/user-attachments/assets/5a480e59-a286-46bb-899f-2b4095fc3232" />
+
 <p>* S - I completed the Business Communication exercise, ehich tested our understanding of the main points, like professional writing and workplace communication.</p>
 <p>* T - I tasked myself by creating a formal business email, to test if I truly understood the structure and tone which is required.</p>
 <p>* A - I reviewed several examples of formal business email examples to ensure that my email follows the same flow.</p>
